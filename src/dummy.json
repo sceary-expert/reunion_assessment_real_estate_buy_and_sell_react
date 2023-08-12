@@ -1,0 +1,159 @@
+[
+    {
+        "property_name": "Luxury Suites",
+        "rent_per_month": 2000,
+        "address": "123 Main St, Cityville",
+        "number_of_beds": 2,
+        "number_of_bathrooms": 2,
+        "area": 1200,
+        "property_type": "Hotel",
+        "location": "Cityville, USA",
+        "image_url": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHJlYWwlMjBlc3RhdGV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "property_name": "Cozy Cabin",
+        "rent_per_month": 800,
+        "address": "456 Forest Rd, Woodland",
+        "number_of_beds": 1,
+        "number_of_bathrooms": 1,
+        "area": 600,
+        "property_type": "House",
+        "location": "Woodland, USA",
+        "image_url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjJ8fHJlYWwlMjBlc3RhdGV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "property_name": "Sunset View Hotel",
+        "rent_per_month": 1800,
+        "address": "789 Beach Blvd, Shoreville",
+        "number_of_beds": 3,
+        "number_of_bathrooms": 2,
+        "area": 1500,
+        "property_type": "Hotel",
+        "location": "Shoreville, USA",
+        "image_url": "https://images.unsplash.com/photo-1494526585095-c41746248156?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjd8fHJlYWwlMjBlc3RhdGV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "property_name": "Riverside Retreat",
+        "rent_per_month": 1200,
+        "address": "101 River Rd, Brookside",
+        "number_of_beds": 2,
+        "number_of_bathrooms": 1,
+        "area": 1000,
+        "property_type": "House",
+        "location": "Brookside, USA",
+        "image_url": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzh8fHJlYWwlMjBlc3RhdGV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "property_name": "Urban Oasis Suites",
+        "rent_per_month": 2500,
+        "address": "555 Downtown Ave, Metrocity",
+        "number_of_beds": 3,
+        "number_of_bathrooms": 2,
+        "area": 1800,
+        "property_type": "Hotel",
+        "location": "Metrocity, USA",
+        "image_url": "https://images.unsplash.com/photo-1628624747186-a941c476b7ef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDR8fHJlYWwlMjBlc3RhdGV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "property_name": "Countryside Cottage",
+        "rent_per_month": 1000,
+        "address": "789 Meadow Lane, Greenfields",
+        "number_of_beds": 2,
+        "number_of_bathrooms": 1,
+        "area": 800,
+        "property_type": "House",
+        "location": "Greenfields, USA",
+        "image_url": "https://images.unsplash.com/photo-1613977257363-707ba9348227?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDd8fHJlYWwlMjBlc3RhdGV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "property_name": "Harbor View Hotel",
+        "rent_per_month": 2200,
+        "address": "222 Harbor Rd, Waterside",
+        "number_of_beds": 2,
+        "number_of_bathrooms": 2,
+        "area": 1400,
+        "property_type": "Hotel",
+        "location": "Waterside, USA",
+        "image_url": "https://images.unsplash.com/photo-1613977257363-707ba9348227?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDd8fHJlYWwlMjBlc3RhdGV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "property_name": "Mountain Chalet",
+        "rent_per_month": 1500,
+        "address": "333 Summit Way, Peaksburg",
+        "number_of_beds": 2,
+        "number_of_bathrooms": 1,
+        "area": 1200,
+        "property_type": "House",
+        "location": "Peaksburg, USA",
+        "image_url": "https://images.unsplash.com/photo-1605276374104-dee2a0ed3cd6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzB8fHJlYWwlMjBlc3RhdGV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "property_name": "Tranquil Gardens Resort",
+        "rent_per_month": 2800,
+        "address": "456 Serenity Lane, Zenville",
+        "number_of_beds": 4,
+        "number_of_bathrooms": 3,
+        "area": 2000,
+        "property_type": "Hotel",
+        "location": "Zenville, USA",
+        "image_url": "https://images.unsplash.com/photo-1635108201747-976f7d4ba453?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTUzfHxyZWFsJTIwZXN0YXRlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "property_name": "Lakefront Lodge",
+        "rent_per_month": 1700,
+        "address": "777 Lakeside Dr, Waterscape",
+        "number_of_beds": 3,
+        "number_of_bathrooms": 2,
+        "area": 1600,
+        "property_type": "House",
+        "location": "Waterscape, USA",
+        "image_url": "https://images.unsplash.com/photo-1635108201747-976f7d4ba453?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTUzfHxyZWFsJTIwZXN0YXRlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "property_name": "Elegant Mansion",
+        "rent_per_month": 2000,
+        "address": "456 Park Avenue, Urbantown",
+        "number_of_beds": 2,
+        "number_of_bathrooms": 2,
+        "area": 1200,
+        "property_type": "Hotel",
+        "location": "Urbantown, USA",
+        "image_url": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHJlYWwlMjBlc3RhdGV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    
+    {
+        "property_name": "Rustic Cabin Retreat",
+        "rent_per_month": 800,
+        "address": "789 Mountain Lane, Serenity Hills",
+        "number_of_beds": 1,
+        "number_of_bathrooms": 1,
+        "area": 600,
+        "property_type": "House",
+        "location": "Serenity Hills, USA",
+        "image_url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjJ8fHJlYWwlMjBlc3RhdGV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    
+    {
+        "property_name": "Seaside Paradise Resort",
+        "rent_per_month": 2800,
+        "address": "555 , Coastal Haven",
+        "number_of_beds": 4,
+        "number_of_bathrooms": 3,
+        "area": 2000,
+        "property_type": "Hotel",
+        "location": "Coastal Haven, USA",
+        "image_url": "https://images.unsplash.com/photo-1635108201747-976f7d4ba453?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTUzfHxyZWFsJTIwZXN0YXRlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+    },
+    
+    {
+        "property_name": "Mountain Vista Lodge",
+        "rent_per_month": 1700,
+        "address": "777 Summit View, Heightsville",
+        "number_of_beds": 3,
+        "number_of_bathrooms": 2,
+        "area": 1600,
+        "property_type": "House",
+        "location": "Heightsville, USA",
+        "image_url": "https://images.unsplash.com/photo-1635108201747-976f7d4ba453?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTUzfHxyZWFsJTIwZXN0YXRlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+    }
+]
